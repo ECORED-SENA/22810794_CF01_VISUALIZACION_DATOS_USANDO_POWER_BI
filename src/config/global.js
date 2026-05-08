@@ -301,8 +301,7 @@ export default {
     {
       referencia:
         'Harris, J., y Davenport, T. (2007). Competing on Analytics: The New Science of Winning.',
-      link:
-        'https://books.google.com.co/books/about/Competing_on_Analytics.html?id=n7Gp7Q84hcsCyredir_esc=y',
+      link: '',
     },
     {
       referencia:
@@ -323,14 +322,12 @@ export default {
     {
       referencia:
         'Provost, F., y Fawcett, T. (2013). Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking.',
-      link:
-        'https://books.google.com.co/books/about/Data_Science_for_Business.html?id=4ZctAAAAQBAJyredir_esc=y',
+      link: '',
     },
     {
       referencia:
         'Redman, T. (2008). Data driven: Profiting from your most important business asset.',
-      link:
-        'https://books.google.com.pe/books?id=Q5CJJ2wVkYACyprintsec=frontcover#v=onepageyqyf=false',
+      link: '',
     },
     {
       referencia:
