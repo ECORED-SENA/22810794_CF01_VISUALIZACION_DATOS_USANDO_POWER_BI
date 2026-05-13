@@ -12,7 +12,7 @@
     p.mb-5 A continuación, se presenta una explicación sobre la importancia de los datos en los entornos actuales, destacando su papel en la generación de información útil, la optimización de procesos y el fortalecimiento de la toma de decisiones en las organizaciones.
     figure(data-aos="zoom-in").mb-0
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/-pX4_R0sxYQ?si=mVkDAjq7dk3r4YEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption.fit___figcaption-video(data-aos="zoom-in") #[b Video]. La importancia de los datos en los entornos actuales.
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
