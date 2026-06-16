@@ -217,7 +217,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/22810025_CF1_DU.pdf',
+        download: 'downloads/22810794_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -246,7 +246,7 @@ export default {
         'proceso mediante el cual se examinan, transforman y analizan datos con el fin de obtener información útil que apoye la toma de decisiones en contextos organizacionales.',
     },
     {
-      termino: 'Business Intelligence (BI)',
+      termino: '<i>Business Intelligence</i> (BI)',
       significado:
         'conjunto de estrategias, metodologías y procesos orientados a convertir datos en información y conocimiento relevante para la gestión y la toma de decisiones.',
     },
@@ -341,7 +341,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06<br>Responsable ecosistema virtual de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -397,7 +398,13 @@ export default {
         },
         {
           nombre: 'Juan Pablo Rojas Polania',
-          cargo: 'Animador y productor multimedia',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor audiovisual',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

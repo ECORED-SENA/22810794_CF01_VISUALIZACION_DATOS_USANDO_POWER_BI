@@ -78,7 +78,7 @@
                   .col-xl-6.mb-4
                     h4.mb-0 Analítica descriptiva 
                     p (¿Qué pasó?)
-                    p Es el nivel base y el enfoque principal de este programa de formación mediante el uso de #[b #[i Power BI]].
+                    p Es el nivel base y el enfoque principal de este programa de formación mediante el uso de #[b Power BI].
                     ul.fa-ul.estilo___ul.mb-0
                       li.mb-0
                         span.fa-li
@@ -87,7 +87,7 @@
                       li.mb-0
                         span.fa-li
                           i.fas.fa-check-circle
-                        | #[b Herramientas clave]: #[i dashboards], tablas, gráficos de barras y líneas, especialmente en herramientas como #[i Power BI]. 
+                        | #[b Herramientas clave]: #[i dashboards], tablas, gráficos de barras y líneas, especialmente en herramientas como Power BI. 
                       li.mb-0
                         span.fa-li
                           i.fas.fa-check-circle
@@ -190,7 +190,7 @@
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Conocimiento
             p ¿Por qué pasó?  ¿Qué pasará?
-            p.mb-0 Identificación de patrones, tendencias e insight. Incluye analítica diagnóstica (causa), analítica predictiva (tendencias futuras) y modelos estadísticos y de #[i machine learning]. Se vincula con la Industria 4.0 y la minería de datos, además de la contextualización, experiencia y simulación de escenarios.
+            p.mb-0 Identificación de patrones, tendencias e #[i insight]. Incluye analítica diagnóstica (causa), analítica predictiva (tendencias futuras) y modelos estadísticos y de #[i machine learning]. Se vincula con la Industria 4.0 y la minería de datos, además de la contextualización, experiencia y simulación de escenarios.
       .py-3.py-md-4(titulo="Decisión")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1

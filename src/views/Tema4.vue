@@ -48,7 +48,7 @@
           img(src="@/assets/curso/temas/img26.svg" style="max-width: 60px").m-auto
       .col
         h3 Elementos fundamentales del modelo de datos
-    p.mb-5 Un modelo de datos bien estructurado permite que una herramienta de Business Intelligence (BI) pase de presentar datos aislados a habilitar análisis multidimensionales. Para su definición, se consideran los siguientes elementos:
+    p.mb-5 Un modelo de datos bien estructurado permite que una herramienta de #[i Business Intelligence] (BI) pase de presentar datos aislados a habilitar análisis multidimensionales. Para su definición, se consideran los siguientes elementos:
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5 
       .tarjeta.color-acento-botones.fit___card-sinbordes
         .row.justify-content-center.mb-4
@@ -655,7 +655,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | El proceso inicia con la comprensión del cliente, antes del uso de herramientas como #[i Power BI].
+                | El proceso inicia con la comprensión del cliente, antes del uso de herramientas como Power BI.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -776,14 +776,14 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-arrow-alt-circle-right
-                |   Uso de herramientas como #[i Power Query] para depuración y tratamiento de nulos.
+                |   Uso de herramientas como Power Query para depuración y tratamiento de nulos.
     .caja-tema1-1.ajustar-caja-tema1.mb-5(data-aos="fade-right")
       .col-lg-auto
         figure
           img(src="@/assets/curso/temas/img26.svg" style="max-width: 60px").m-auto
       .col
         h3 Modelación de datos: definición del evento central y la granularidad
-    p.mb-5 En esta etapa, el analista diseña un #[b esquema estrella] con el propósito de lograr un análisis multidimensional eficiente en #[b #[i Power BI]]. A partir de los requerimientos priorizados, se establece con precisión cuál es el hecho principal que se analizará y con qué nivel de detalle se registrará la información. Para estructurar esta decisión, se definen los elementos centrales del modelo dimensional:
+    p.mb-5 En esta etapa, el analista diseña un #[b esquema estrella] con el propósito de lograr un análisis multidimensional eficiente en #[b Power BI]. A partir de los requerimientos priorizados, se establece con precisión cuál es el hecho principal que se analizará y con qué nivel de detalle se registrará la información. Para estructurar esta decisión, se definen los elementos centrales del modelo dimensional:
     .row.justify-content-center.mb-5
       .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         .caja-tema1-2.h-100
@@ -900,8 +900,8 @@
                 img(src='@/assets/curso/temas/img76.svg' style="max-width: 90px").m-auto
             h4.mb-3.estilo-text Usabilidad
             p.mb-0.text-center ¿Los nombres de los campos son claros para el usuario final, por ejemplo, reemplazar #[b servicio_id] por #[b Nombre Servicio]?
-    p Como resultado de esta validación, el modelo dimensional definido queda #[b técnicamente validado] y listo para su implementación en #[b #[i Power BI]].
-    p.mb-0 Este caso evidencia que una solución de Business Intelligence no inicia con una herramienta, sino con la comprensión del problema, la identificación de requerimientos, el análisis de fuentes y la definición de un modelo de datos coherente. Estos pasos constituyen la base fundamental para la construcción de tableros y soluciones analíticas confiables, los cuales se desarrollarán en el siguiente componente formativo.
+    p Como resultado de esta validación, el modelo dimensional definido queda #[b técnicamente validado] y listo para su implementación en #[b Power BI].
+    p.mb-0 Este caso evidencia que una solución de #[i Business Intelligence] no inicia con una herramienta, sino con la comprensión del problema, la identificación de requerimientos, el análisis de fuentes y la definición de un modelo de datos coherente. Estos pasos constituyen la base fundamental para la construcción de tableros y soluciones analíticas confiables, los cuales se desarrollarán en el siguiente componente formativo.
 </template>
 
 <script>

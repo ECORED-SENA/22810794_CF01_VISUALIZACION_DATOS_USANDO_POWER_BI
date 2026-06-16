@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Tipos de fuentes
-    p.mb-5 En este apartado se abordan los conceptos relacionados con las fuentes de datos y el ecosistema de datos, reconociendo su papel dentro de los procesos de analítica de datos y Business Intelligence (BI). El propósito es comprender el origen de los datos, su clasificación y las características que deben considerarse para garantizar su pertinencia y confiabilidad en la construcción de modelos de datos alineados con los requerimientos del cliente.
+    p.mb-5 En este apartado se abordan los conceptos relacionados con las fuentes de datos y el ecosistema de datos, reconociendo su papel dentro de los procesos de analítica de datos y #[i Business Intelligence] (BI). El propósito es comprender el origen de los datos, su clasificación y las características que deben considerarse para garantizar su pertinencia y confiabilidad en la construcción de modelos de datos alineados con los requerimientos del cliente.
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-xl-auto
         .caja-tema3
@@ -81,7 +81,7 @@
               .col-xl-6.mb-4
                 h4.mb-0 Datos semiestructurados
                 P.
-                p.mb-5 Poseen cierta organización, pero no siguen un esquema rígido. Ejemplos comunes incluyen archivos #[i JSON] o #[i XML], donde la información se estructura mediante etiquetas o claves.
+                p.mb-5 Poseen cierta organización, pero no siguen un esquema rígido. Ejemplos comunes incluyen archivos JSON o XML, donde la información se estructura mediante etiquetas o claves.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img44.png', alt='' style="max-width: 500px").m-auto
@@ -156,7 +156,7 @@
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
-                | #[b Latencia]: tiempo entre la ocurrencia del hecho y su disponibilidad en #[i Power BI] u otra herramienta.
+                | #[b Latencia]: tiempo entre la ocurrencia del hecho y su disponibilidad en Power BI u otra herramienta.
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle

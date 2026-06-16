@@ -20,7 +20,7 @@ export default {
       tema: 'Fundamentos de analítica, requerimientos y modelado de datos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los fundamentos de la analítica de datos, la identificación y priorización de requerimientos, las fuentes y el ecosistema de datos, el modelado de datos y los conceptos básicos del proceso ETL, como base para soluciones de <i>Business Intelligence</i>.',
+        '<b>Objetivo:</b> evaluar la comprensión de los fundamentos de la analítica de datos, la identificación y priorización de requerimientos, las fuentes y el ecosistema de datos, el modelado de datos y los conceptos básicos del proceso ETL, como base para soluciones de <i>Business Intelligence</i>.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -89,7 +89,7 @@ export default {
         },
         {
           id: 3,
-          texto: 'Business Intelligence tiene como propósito principal:',
+          texto: '<i>Business Intelligence</i> tiene como propósito principal:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

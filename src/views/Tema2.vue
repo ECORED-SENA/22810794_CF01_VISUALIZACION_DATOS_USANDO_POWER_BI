@@ -35,7 +35,7 @@
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 ¿Qué se entiende por requerimientos del cliente?
-    p.mb-5 En el contexto de #[i Power BI] y la analítica de datos, un requerimiento no se limita a una lista de funcionalidades de software, sino que representa la traducción de una necesidad del negocio en una estructura de datos que pueda ser consultada, analizada e interpretada de manera efectiva.
+    p.mb-5 En el contexto de Power BI y la analítica de datos, un requerimiento no se limita a una lista de funcionalidades de #[i software], sino que representa la traducción de una necesidad del negocio en una estructura de datos que pueda ser consultada, analizada e interpretada de manera efectiva.
     .caja-tema1.mb-5(data-aos="zoom-in")
       .row.align-items-center
         .col-xl-auto

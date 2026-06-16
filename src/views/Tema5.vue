@@ -152,7 +152,7 @@
         h4.mb-3.estilo-text Integración de datos
         p.mb-0.text-center Consolidación de información proveniente de múltiples fuentes en una estructura coherente.
     p De acuerdo con (Redman, 2008), una gran proporción de los problemas de calidad de datos se origina en transformaciones deficientes o mal documentadas, lo que impacta directamente la confiabilidad de los indicadores.
-    p.mb-5 En este sentido, la transformación no solo implica ajustes técnicos, sino la #[b formalización de reglas que gobiernan el significado y uso de los datos]. Para garantizar la escalabilidad de un proyecto en #[b #[i Power BI]], el analista debe comprender los siguientes fundamentos teóricos:
+    p.mb-5 En este sentido, la transformación no solo implica ajustes técnicos, sino la #[b formalización de reglas que gobiernan el significado y uso de los datos]. Para garantizar la escalabilidad de un proyecto en #[b Power BI], el analista debe comprender los siguientes fundamentos teóricos:
     .bg-slider.mb-5
       .px-5
         .ajuste-slider(data-aos="zoom-in")
