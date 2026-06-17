@@ -613,7 +613,7 @@
             img(src='@/assets/curso/temas/img70.png', alt='').m-auto
         .col-xl
           p.mb-0 Una institución prestadora de servicios de salud (IPS) ha identificado dificultades para comprender el comportamiento de la atención a los usuarios. Aunque se cuenta con registros operativos diarios, la información se encuentra dispersa en diferentes fuentes y no se dispone de una visión clara que permita apoyar la toma de decisiones estratégicas.
-    p.mb-5 La dirección de la institución requiere comprender cómo se comportan las atenciones en el tiempo, qué servicios presentan mayor demanda, cuáles sedes concentran mayor volumen y cómo varían los tiempos de atención. Para ello, se plantea la necesidad de construir una solución de Business Intelligence, iniciando por una correcta definición del modelo de datos.
+    p.mb-5 La dirección de la institución requiere comprender cómo se comportan las atenciones en el tiempo, qué servicios presentan mayor demanda, cuáles sedes concentran mayor volumen y cómo varían los tiempos de atención. Para ello, se plantea la necesidad de construir una solución de #[i Business Intelligence], iniciando por una correcta definición del modelo de datos.
     .caja-tema1-1.mb-5(data-aos="fade-right")
       .col-lg-auto
         figure
@@ -869,7 +869,7 @@
           img(src="@/assets/curso/temas/img26.svg" style="max-width: 60px").m-auto
       .col
         h3 #[i Checklist] de validación técnica
-    p.mb-5 Antes de implementar el modelo en #[b #[i Power BI]], se realiza una validación técnica para garantizar su consistencia estructural y su utilidad analítica.
+    p.mb-5 Antes de implementar el modelo en #[b Power BI], se realiza una validación técnica para garantizar su consistencia estructural y su utilidad analítica.
     .row.align-items-center.mb-5 
       .col-xl-4(data-aos="fade-right")
         figure.d-none.d-xl-block
